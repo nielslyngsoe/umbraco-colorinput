@@ -1,0 +1,16 @@
+
+.NielsLyngsoe-ColorInput {
+	position: relative;
+   display: inline-block;
+}
+.NielsLyngsoe-ColorInput input {
+	width:150px;
+}
+.NielsLyngsoe-ColorInput .display {
+	position: absolute;
+	top: 0;
+	right: -29px;
+	height: 28px;
+	width: 28px;
+	border:1px solid #ccc;
+}
